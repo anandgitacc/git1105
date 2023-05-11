@@ -11,9 +11,14 @@ public class EmployeeDetails {
 		// business logic or implementation details
 		System.out.println("Employee name: anand");
 	}
-	
 	private void empLocation() {
 		System.out.println("OMR");
 	}
+	private void empId() {
+		System.out.println("employee id : 111");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 058c84981e458a9bdc5c5efd32981fd587288d7f
 
 }
